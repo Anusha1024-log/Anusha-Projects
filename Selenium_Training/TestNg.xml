@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+ 
+<suite name ="Selenium_Training">
+
+   <test name ="Selenium_Training Test">
+    <parameter name="browser" value="chrome" />
+    
+    <classes>
+       <class name = ""/>
+       <class name ="org.tetrasoft.training.test.TestNG_Demo" />
+       <class name = "" />
+    </classes>
+    
+   </test>
+</suite>
