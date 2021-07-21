@@ -10,6 +10,7 @@ public class PropertiesFile {
     
 	static Properties prop = new Properties();
 	static String path = System.getProperty("user.dir");
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
